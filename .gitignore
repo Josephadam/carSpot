@@ -6,10 +6,16 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Node (if used later)
+# Node / Expo
 node_modules/
 npm-debug.log*
+.expo/
+dist/
+web-build/
 
 # Environment variables
 .env
 .env.local
+
+# TypeScript
+expo-env.d.ts
